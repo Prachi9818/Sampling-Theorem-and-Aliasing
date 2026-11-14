@@ -1,9 +1,9 @@
 # Simulation and Analysis of Sampling Theorem and Aliasing Using Python
 
 **Subject:** Signals & Systems (Innovative Assessment)
-**Student:** _[Student Name]_ | **Roll No.:** _[Roll Number]_ | **Section:** _[Section]_
-**University:** _[University Name]_ | **Department:** _[Department]_
-**Faculty:** _[Faculty Name]_ | **Academic Session:** _[Academic Session]_
+**Student:** _Prachi Gupta_ | **Roll No.:** _202410101150245_ | **Section:** _5D_
+**University:** _Shri Ramswaroop Memorial University_ | **Department:** _Computer Science_
+**Faculty:** _Mr. Sandeep Tiwari_ | **Academic Session:** _2026-27_
 
 > Replace the bracketed placeholders above with your own details.
 
